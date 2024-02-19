@@ -7,9 +7,9 @@
    viewBox="0 0 30 29.999999"
    version="1.1"
    id="svg38950"
-   inkscape:version="1.1 (c4e8f9e, 2021-05-24)"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25)"
    sodipodi:docname="open-tr-logo-01-margins.svg"
-   inkscape:export-filename="/Users/aliok/Desktop/open-tr-logo-01-margins-500x500-twitter.png"
+   inkscape:export-filename="open-tr-logo-01-margins-500x500-twitter.png"
    inkscape:export-xdpi="423.32999"
    inkscape:export-ydpi="423.32999"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -28,18 +28,20 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="1.8973437"
-     inkscape:cx="3.6893685"
-     inkscape:cy="57.712264"
-     inkscape:window-width="1312"
-     inkscape:window-height="997"
-     inkscape:window-x="0"
+     inkscape:cx="3.9528948"
+     inkscape:cy="57.97579"
+     inkscape:window-width="2560"
+     inkscape:window-height="1387"
+     inkscape:window-x="4288"
      inkscape:window-y="25"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="layer1"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer2"
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
-     fit-margin-bottom="0" />
+     fit-margin-bottom="0"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1" />
   <defs
      id="defs38947">
     <linearGradient
@@ -65,33 +67,14 @@
        r="22.383465"
        gradientTransform="matrix(2.7941465,-0.02105915,0.01717713,2.2790723,-27.148204,-18.855163)"
        gradientUnits="userSpaceOnUse" />
-    <filter
-       inkscape:collect="always"
-       style="color-interpolation-filters:sRGB"
-       id="filter2109"
-       x="-0.14453757"
-       y="-0.1648745"
-       width="1.2890751"
-       height="1.329749">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="2.6960431"
-         id="feGaussianBlur2111" />
-    </filter>
   </defs>
   <g
      inkscape:groupmode="layer"
      id="layer2"
-     inkscape:label="bg">
+     inkscape:label="bg"
+     style="display:inline">
     <rect
-       style="fill:#000000;fill-opacity:0.681416;stroke-width:0.105918"
-       id="rect39849"
-       width="35.842171"
-       height="31.421114"
-       x="-2.9330392"
-       y="-0.72250807" />
-    <rect
-       style="opacity:1;fill:url(#radialGradient1125);fill-opacity:1;stroke-width:0.132292;filter:url(#filter2109)"
+       style="opacity:1;fill:url(#radialGradient1125);fill-opacity:1;stroke-width:0.132292"
        id="rect1117"
        width="44.76693"
        height="39.245022"
@@ -290,13 +273,13 @@
     </g>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.43349px;line-height:1.25;font-family:'Maven Pro';-inkscape-font-specification:'Maven Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:47.3237;fill:#000000;fill-opacity:0.99;stroke:none;stroke-width:0.30157;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.43349px;line-height:1.25;font-family:'Maven Pro';-inkscape-font-specification:'Maven Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;text-anchor:middle;white-space:pre;inline-size:47.3237;display:inline;fill:#000000;fill-opacity:0.99;stroke:none;stroke-width:0.30157;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        x="56.459389"
        y="31.40543"
        id="text14393-3-5-4-1-1-1-4-3"
        transform="matrix(0.85867772,0,0,0.8703059,-33.521892,-3.0473365)"><tspan
          x="56.459389"
          y="31.40543"
-         id="tspan2979">OpenTR</tspan></text>
+         id="tspan1">OpenTR</tspan></text>
   </g>
 </svg>
